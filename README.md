@@ -1,5 +1,5 @@
 ### Hi, I'm Henry 👋
-I work as a Software Engineer at American Express
+I work on Games Programming @ Hangar 13 Games
 
 I'm interested in:
 * Distrubuted Systems
