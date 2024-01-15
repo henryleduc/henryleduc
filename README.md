@@ -1,5 +1,5 @@
 ### Hi, I'm Henry 👋
-I work on Games Programming @ Hangar 13 Games
+I work on Backend Games Programming @ Hangar 13 Games
 
 I'm interested in:
 * Distrubuted Systems
