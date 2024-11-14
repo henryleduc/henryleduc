@@ -1,12 +1,12 @@
 ### Hi, I'm Henry 👋
-I work on Backend Games Programming @ Hangar 13 Games
+I work on Backend Golang Services @ Hangar 13 Games
 
-I'm interested in:
-* Distrubuted Systems
-* Decentralized Systems
-* Payments
-* Event Sourcing
-* CQRS
+### 🌱 I'm interested in
+*	🌐 Distributed Systems
+*	🏛️ Decentralized Systems
+*	💳 Payments
+*	📜 Event Sourcing
+*	🚦 CQRS (Command Query Responsibility Segregation)
 <!--
 **henryleduc/henryleduc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
