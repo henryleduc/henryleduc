@@ -1,5 +1,5 @@
 ### Hi, I'm Henry 👋
-I work on Backend Golang Services @ Hangar 13 Games
+I work on Backend Golang Services @ Teya
 
 ### 🌱 I'm interested in
 *	🌐 Distributed Systems
